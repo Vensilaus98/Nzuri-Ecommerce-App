@@ -41,7 +41,8 @@ dependencies:
   google_fonts:
   http:
   provider:
-  internet_connection_checker:
+  path:
+  sqflite: ^2.2.5
 
 dev_dependencies:
   flutter_test:
